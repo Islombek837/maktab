@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+}
+.ko{
+    height: 100vh;
+    width: 100%;
+    background-image:url(screen-7.jpg) ;
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    position: relative;
+}
+.h1{
+    font-size: 100px;
+}
+.kl{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.e{
+    position: absolute;
+    top: 500px;
+    left: 700px;
+}
+button{
+    padding: 20px 40px;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(40deg, white, black);
+}
+.card{
+    width: 350px ;
+    height: 250px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background:linear-gradient(70deg, white, black) ;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card2{
+    width: 350px ;
+    height: 250px;
+    position: absolute;
+    left: 580px;
+    top: 30px;
+    background:linear-gradient(70deg, white, black) ;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card3{
+    width: 350px ;
+    height: 250px;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    background:linear-gradient(70deg, white, black) ;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card4{
+    width: 350px ;
+    height: 250px;
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    background:linear-gradient(70deg, white, black) ;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card5{
+    width: 350px ;
+    height: 250px;
+    position: absolute;
+    left: 30px;
+    bottom: 30px    ;
+    background:linear-gradient(70deg, white, black) ;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
